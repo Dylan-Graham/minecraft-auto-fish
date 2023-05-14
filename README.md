@@ -1,2 +1,2 @@
-# minecraft-auto-fish
+# Minecraft Automatic-Fishing
 Image classifier to automatically farm fish
